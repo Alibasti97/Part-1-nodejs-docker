@@ -32,9 +32,9 @@ Successfully built 88493946db3f
 Successfully tagged hello-node:latest
 
 ## 6. Pushing Docker Image to Docker Hub.
-#### sudo docker tag hello-node:latest alibasti97/nodejs-hello:latest
+#### sudo docker tag hello-node:latest alibasti97/nodejs-hello:latest. [This command takes the image in the local machine to tag it with the remote repository on docker hub.]
 #### I also used the sudo docker login command and added the username and password.
-#### sudo docker push alibasti97/nodejs-hello:latest
+#### sudo docker push alibasti97/nodejs-hello:latest. [This command is used to push a Docker image with the tag "latest" from your local machine to a container registry.]
 ## Output: This is the output when I pushed the Docker Image to Docker Hub.
 The push refers to repository [docker.io/alibasti97/nodejs-hello]
 4e40459d22da: Pushed 
