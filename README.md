@@ -1,6 +1,6 @@
-# Part1: Docker-File-Creation-Github-and-Docker-Hub-Integration
+# Part1: Nodejs-Docker
 
-## 1. Created a simple Hello World Flask App.
+## 1. Created a simple Hello World Nodejs App.
 ## 2. Created an Instance on AWS and installed Docker using command "sudo apt install docker.io"
 ## 3. Cloned the App from Github to my Instance using command "git clone https://github.com/Alibasti97/Docker-File-Creation-Github-Docker-Hub-Integration.git"
 ## 4. Created a Dockerfile.
